@@ -1,0 +1,14 @@
+{
+  "name": "cy-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cy": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.0.0"
+  }
+}
